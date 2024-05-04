@@ -6,7 +6,7 @@
 Welcome to my project! This ReadME will guide you through the setup and usage of this application. 
 
 ## Technologies Used:
-Frontend: HTML, CSS and Javascript,
+Frontend: HTML, CSS, Javascript,
 Backend: FastAPI(Python),
 Database: PostgreSQL,
 Machine Learning Models: Using Pandas and Scikit-learn.
