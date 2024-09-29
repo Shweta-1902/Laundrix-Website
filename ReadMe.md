@@ -5,7 +5,7 @@
 ## Introduction
 Welcome to my project! This ReadME will guide you through the setup and usage of this application. 
 
-## Technologies Used:
+## Technologies Used in Project:
 Frontend: HTML, CSS, Javascript,
 Backend: FastAPI(Python),
 Database: PostgreSQL,
