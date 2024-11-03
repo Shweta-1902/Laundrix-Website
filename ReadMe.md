@@ -72,3 +72,5 @@ required values to connect with the PostgreSQL database.
 ### 6. Run the Application:
     First, Run the FastAPI Server using command prompt in VS Code: uvicorn Server.main:app --reload
     After successfull run of FastAPI Server, run front-end of the Application.
+
+[View the website here](https://github.com/Shweta-1902/Laundrix-Website/tree/main/WebUI/)
